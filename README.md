@@ -2,7 +2,7 @@
 Crearea unui document HTML folosind structura de bază a documentului și un conținut textual.
 html
 
-`html`
+```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -77,6 +77,6 @@ html
 </body>
 
 </html>
-`html`
+```
 
 După afișarea acestui document html în browser rezultă o pagină web cu titluri, paragrafe și liste.
